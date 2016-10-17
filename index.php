@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-     echo 'hello Github Psdg2312'
+     echo 'hello Github anamai'
         
         ?>
     </body>
